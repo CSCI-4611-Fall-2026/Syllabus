@@ -86,7 +86,7 @@ This course has a flexible late policy. Each assignment will have a fixed due da
 
 Each late point is worth a 24-hour extension for any programming assignment. You are free to allocate them however you want throughout the course. For example, if you are sick, have a family emergency, or even just a big project due, you could apply all points to that assignment and hand it in a week late. Alternatively, you could decide to spread these points across several assignments and submit each one a day or two late.
 
-If you have late points remaining, **you do not need to contact me** for an extension on programming assignments. When you submit the assignment, you will fill out a grading request form that indicates how many late points you would like to use.
+If you have late points remaining, **you do not need to contact me** for an extension on programming assignments. If you have late points remaining, they will be applied automatically based on the date of your submission.
 
 Your current late points will be visible in Canvas and will be updated when your assignments are graded. Note that you are responsible for keeping track of remaining points if you submitted an assignment late, but it has not been graded yet. If you run out of late points and anticipate further difficulties in completing work on time, then you should contact me to discuss your situation.
 
